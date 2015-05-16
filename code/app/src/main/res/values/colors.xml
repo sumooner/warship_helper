@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--common start-->
+    <color name="grey">#ababab</color>
+    <color name="orange">#c66a46</color>
+    <color name="ade_green">#e5eadd</color>
+    <color name="ade_grey">#d5d5d5</color>
+    <color name="white">#f7f7f7</color>
+    <color name="pure_white">#ffffff</color>
+    <color name="holo_blue">#ff33b5e5</color>
+    <color name="transparent">#00000000</color>
+    <color name="sixty_transparent">#66e5eadd</color>
+    <color name="absolute_black">#000000</color>
+    <color name="twenty_transparent_black">#33000000</color>
+    <color name="thirty_transparent_black">#55000000</color>
+    <color name="forty_transparent_black">#66000000</color>
+    <color name="sixty_transparent_black">#99000000</color>
+    <color name="seventy_transparent_black">#B2000000</color>
+    <color name="eighty_transparent_black">#CC000000</color>
+    <color name="ten_transparent_white">#1affffff</color>
+    <color name="twenty_transparent_white">#33ffffff</color>
+    <color name="thirty_transparent_white">#55ffffff</color>
+    <color name="fifty_transparent_white">#7fffffff</color>
+    <color name="sixty_transparent_white">#99ffffff</color>
+    <color name="eighty_transparent_white">#CCffffff</color>
+    <color name="transparent_white_30">#1dffffff</color>
+    <color name="transparent_white_85">#54ffffff</color>
+    <color name="darker_grey">#999999</color>
+
+    <color name="text_color_disabled">#cccccc</color>
+    <color name="text_color_body">#777777</color>
+    <color name="text_color_black">#333333</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_gray">#999999</color>
+    <color name="text_color_lite">#d8e5f9</color>
+    <color name="text_color_semi_white">#88ffffff</color>
+    <!--common end-->
+</resources>
